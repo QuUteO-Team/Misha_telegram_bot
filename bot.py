@@ -5,7 +5,7 @@ from screens import (
     MainMenuScreen,
     AddLinkScreen,
     RandomLinkScreen,
-    AllLinksScreen,
+    AllLinksScreen
 )
 
 
@@ -18,7 +18,7 @@ def main():
             MainMenuScreen,
             AddLinkScreen,
             RandomLinkScreen,
-            AllLinksScreen,
+            AllLinksScreen
         },},
     )
     bot.run()
